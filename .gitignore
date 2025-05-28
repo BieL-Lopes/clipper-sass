@@ -88,7 +88,7 @@ celerybeat.pid
 
 # Environments
 .env
-backend/.venv
+api/.venv
 env/
 venv/
 ENV/
@@ -156,3 +156,5 @@ Thumbs.db
 
 # Ignore .mp3
 **.mp3
+
+client/node_modules
