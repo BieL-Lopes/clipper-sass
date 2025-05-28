@@ -1,0 +1,6 @@
+
+fastapi
+uvicorn
+moviepy
+librosa
+numpy

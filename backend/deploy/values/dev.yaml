@@ -1,0 +1,8 @@
+toggles:
+  isLocal: false
+
+replicaCount: 1
+
+image:
+  repository: registry.digitalocean.com/mkb/clipper
+  tag: latest

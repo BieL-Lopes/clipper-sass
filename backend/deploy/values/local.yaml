@@ -1,0 +1,8 @@
+toggles:
+  isLocal: true
+
+replicaCount: 1
+
+image:
+  repository: localhost:5000/clipper-app
+  tag: latest
